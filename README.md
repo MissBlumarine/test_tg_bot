@@ -1,8 +1,8 @@
 # test_tg_bot
 
-bot happy_birthday_dude
-username: @greetings_money_senderbot
-https://t.me/greetings_money_senderbot
+- bot happy_birthday_dude
+- username: @greetings_money_senderbot
+- https://t.me/greetings_money_senderbot
 
 1. тестовый бот запускается локально
 2. используется библиотека telebot
